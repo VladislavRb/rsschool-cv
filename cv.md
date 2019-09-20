@@ -1,18 +1,18 @@
-1. Vlad Rabashchenko  
-2.  
+**1.** Vlad Rabashchenko  
+**2.**  
     phone: +375 29 103 55 02  
     gmail: vlad.rabashchenko@gmail.com  
-3. To be brief, my goal is to learn all the necessary front-end 
+**3.** To be brief, my goal is to learn all the necessary front-end 
 stuff like HTML, CSS and so on. When it comes to my wishes, I'd like 
 myself 
 not to be lazy so I can evolve:)  
-4.  
+**4.**  
   - HTML  
   - CSS  
   - JS (a bit)  
   - React (a bit too)  
 
-5.
+**5.**
 ```javascript
 function go(){
 	let input = document.getElementsByTagName("input")[0].value;
@@ -111,10 +111,10 @@ function myEvery(arr, criteria){
 }
 ```
 
-6. -  
-7. BSU, MMF, 2 course. Attended:  
+**6.** -  
+**7.** BSU, MMF, 2 course. Attended:  
   - one Python training  
   - one JS and several algorithms trainings  
   - Codecademy HTML and CSS.
 
-8. Something near B2. Attended English Courses (SOL Minsk)
+**8.** Something near B2. Attended English Courses (SOL Minsk)
