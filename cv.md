@@ -1,7 +1,7 @@
 **1.** Vlad Rabashchenko  
 **2.**  
-    phone: +375 29 103 55 02  
-    gmail: vlad.rabashchenko@gmail.com  
+    *phone*: +375 29 103 55 02  
+    *gmail*: vlad.rabashchenko@gmail.com  
 **3.** To be brief, my goal is to learn all the necessary front-end 
 stuff like HTML, CSS and so on. When it comes to my wishes, I'd like 
 myself 
